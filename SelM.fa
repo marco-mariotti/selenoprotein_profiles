@@ -1,15 +1,25 @@
->SelM2_Thalassiosira_pseudonana [Thalassiosira pseudonana CCMP1335 (Eukaryota/Stramenopiles)]
-MFVDGQRTSDGRAGDRKQGTKQVQSPFFFNKGQPRDNSWTLPPPPPPKLEGEPTDRRQTRVDEHHRTNQSQVVSQQVASRSASYKIRGDGDVDRVTWVCRRSRPGSVGFTCPSSHVFVFSLVILD-SSAAAIHSKMLSSASRILFLLATILALTTATLHGRIESCSGUKLNKLPVLKSFLKDG-EAES-YRNVEVKYVPGKQAVLTIYEGEGEEVEGWVEKEKIVLSELETKVTVVWVLTECRFMC--------------------------------------------------------CNSAVFI
 >SelM1_Thalassiosira_pseudonana [Thalassiosira pseudonana CCMP1335 (Eukaryota/Stramenopiles)]
 MILVR-------------------------------------------------------IFP--------------------------------------------------PVLLFLSMLL-------------------------VWSDAQEQRLTGLIESCSGUALNRLPELKSFLKDLNGVDL-YKNVEVHFISGKRAVLTIFE-GGRELEKI------TLSDYNDKEKLHTLFAEKGFVKYTGVELAERRKVEAEETGSLQKTLEAQRYSLSKREQKLQMKERLKKLQTARDNYMIEAPFVEQ
+>SelM.Salmo_salar
+-----------------------------------------------------------------------------------------------------MNLLNVLQSEEIMWFFI-FV--SF---------------LNCVSAYDVDLKKLDGLAKAKVESCGGUQLNRLREVKAFVTQDIP---LYHNLVMKHIPGADPELVLLNHYYEELDRI------ALS-DMTRSEINELLEKLGFYKKAQPEDQVP--EEFRFSPAKDSPFKATPSSSSSAPAGNASS-----------DSDAEAKHSDL
 >gi|169234774|ref|NP_001108486.1| selenoprotein M precursor [Canis lupus familiaris]
 MRLPL-------------------------------------------------------PPP--------------------------------------------------PLLLLLAALAAA-VTTF-----------------RPDWNRLHGLARARVETCGGUQLNRLKEVKAFVTQDIP---LYHNLVMKHLPGADPELVLLGHHYEELERI------PLS-EMTREEINELVQELGFYRKAAPDEAVP--PEYLRAPARPA--------------------------------EGAPDRADL
->gi|212274308|ref|NP_001085717.2| selenoprotein M [Xenopus laevis] gi|190358766|sp|Q6GP98.2|SELM_XENLA RecName: Full=Selenoprotein M_ Short=SelM_ Flags: Precursor
+>SelM.Danio_rerio
+-----------------------------------------------------------------------------------------------------------------MWPLIFTA--LL---------------PSVILTYEVNIEKLSGLARARVETCGGUQLNRMREVKAFVTQDIP---LYHNLVMKHIPGADPELVLLNHYYEELDRI------PLS-EMTRAEINKLLAELGFYKKDHPEDQVP--EEFRFSPAKDSPFEGRQSSTAAPET----------------TEPSDSQHTDL
+>gi|212274308|ref|NP_001085717.2| selenoprotein M [Xenopus laevis] gi|190358766|sp|Q6GP98.2|SELM_XENLA RecName: Full=Selenoprotein M_ Short=SelM_ Flags: Precurso
 MWLPL-------------------------------------------------------P-----------------------------------------------------LLLGLLQLQPI-LSY------------------QIDWNKLERINRGKVESCGGUQLNRLKEVKGFVTEDLP---LYHNLEMKHIPGADPELVLITSRYEELERI------PLS-DMKRDEINQLLKDLGFYRKSSPDAPVP--AEFKMAPARAS----------------------------------GDTKEDL
+>SelM2_Thalassiosira_pseudonana [Thalassiosira pseudonana CCMP1335 (Eukaryota/Stramenopiles)]
+MFVDGQRTSDGRAGDRKQGTKQVQSPFFFNKGQPRDNSWTLPPPPPPKLEGEPTDRRQTRVDEHHRTNQSQVVSQQVASRSASYKIRGDGDVDRVTWVCRRSRPGSVGFTCPSSHVFVFSLVILD-SSAAAIHSKMLSSASRILFLLATILALTTATLHGRIESCSGUKLNKLPVLKSFLKDG-EAES-YRNVEVKYVPGKQAVLTIYEGEGEEVEGWVEKEKIVLSELETKVTVVWVLTECRFMC--------------------------------------------------------CNSAVFI
 >gi|23452027|gb|AAN32900.1| selenoprotein SelM2 [Chlamydomonas reinhardtii]
 MRALA------------------------------------------------------------------------------------------------------------LALLALA-LIAH-E-------------------------ANAKVARGEFISCPGURLNHLPEVKKFIRGDIEKDKAYENLTVNFVPGRTPELVLYDENGVEIERM------FVD-KLKYDELHTLVQSKGFKRRDPNAAAAT--TTA-TASTRRAR--------------------------AARRLLRATEETAC
+>SelM.Homo_sapiens
+--------------------------------------------------------------------------------------------------------MSLLLP-PLALLLLLAALVAP---------------ATAATAYRPDWNRLSGLTRARVETCGGUQLNRLKEVKAFVTQDIP---FYHNLVMKHLPGADPELVLLGRRYEELERI------PLS-EMTREEINALVQELGFYRKAAPDAQVP--PEYVWAPAKPPEETSDHADL--------------------------------
+>SelM.Mus_musculus
+--------------------------------------------------------------------------------------------------------MSILLS-PPSLLLLLAALVAP---------------ATSTTNYRPDWNRLRGLARGRVETCGGUQLNRLKEVKAFVTEDIQ---LYHNLVMKHLPGADPELVLLSRNYQELERI------PLS-QMTRDEINALVQELGFYRKSAPEAQVP--PEYLWAPAKPPEEASEHDDL--------------------------------
 >gi|115291344|gb|ABI93178.1| selenoprotein M [Litopenaeus vannamei]
 MAKGS-------------------------------------------------------V----------------------------------------------------QLLLLLGAVF----SYT-----------------LAEELRETAIAKARVESCGGURLNRLPEVKKFIHEDIP---LFHNAKFKQIGGAPPELVLLNRFDQVVERL------PLD-KLSREECNKLMLKKGFYKKSSPEEEVP--EEYRNGPY--------------------------------------TEREEL
+>SelM.Sus_scrofa
+-----------------------------------------------------------------------------------------------------------MHL-PPLSLPLLLLLAAL---------------AAATTTFRPDWNRLQGLARARVETCGGUQLNRLKEVKAFVTQDIP---LYHNLVMKHLPGADPELVLLGHRFEELERI------PLS-DMTREEINALVQELGFYRKAAPEDPVP--PEYMRAPARPAEGAPDRADL--------------------------------
 >gi|67083573|gb|AAY66722.1| salivary selenoprotein M precursor [Ixodes scapularis]
 MLLHG------------------------------------------------------------------------------------------------------------FLAVLLCASF---VS-A-----------------DEKEPADKVIVKARVESCGGURLNAYPEVKKFVYDDIP---LFHNVEFKVIGGAKPEVLFLNMNDEEVERH------SLE-GRSRDECNQLLLDRGFEKKKQE-APQE--EEGP-GLF-------------------------------------ADEKAEL
 >SelM_Ostreococcus_lucimarinus [Se user]; [Ostreococcus lucimarinus (Eukaryota/Viridiplantae/Chlorophyta)]
