@@ -1,4 +1,4 @@
->SEED.SelW2.SelW.7.selenocysteine.hippocampus_comes.Hippocampus_comes_H_comes_QL1_v1_dna_toplevel chromosome:KV879870.1 strand:- positions:4900102-4900300,4898404-4898513 target:/Lobster/mtico/fasta_gff_genomefiles/hippocampus_comes/Hippocampus_comes.H_comes_QL1_v1.dna.toplevel.fa prediction_program:genewise
+>SEED.SELENOW2.SelW.7.selenocysteine.hippocampus_comes.Hippocampus_comes_H_comes_QL1_v1_dna_toplevel chromosome:KV879870.1 strand:- positions:4900102-4900300,4898404-4898513 target:/Lobster/mtico/fasta_gff_genomefiles/hippocampus_comes/Hippocampus_comes.H_comes_QL1_v1.dna.toplevel.fa prediction_program:genewise
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -124,7 +124,7 @@ CFV--------VMG----------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelW2.SelW.2.selenocysteine.gadus_morhua.Gadus_morhua_gadMor3_0_dna_toplevel chromosome:14 strand:- positions:27905563-27905686,27905260-27905417 target:/Lobster/mtico/fasta_gff_genomefiles/gadus_morhua/Gadus_morhua.gadMor3.0.dna.toplevel.fa prediction_program:genewise
+>SEED.SELENOW2.SelW.2.selenocysteine.gadus_morhua.Gadus_morhua_gadMor3_0_dna_toplevel chromosome:14 strand:- positions:27905563-27905686,27905260-27905417 target:/Lobster/mtico/fasta_gff_genomefiles/gadus_morhua/Gadus_morhua.gadMor3.0.dna.toplevel.fa prediction_program:genewise
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -250,7 +250,7 @@ CFV--------VMG----------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelW2.SelW.2.selenocysteine.oncorhynchus_kisutch.Oncorhynchus_kisutch_Okis_V2_dna_toplevel chromosome:MPKV02004441.1 strand:- positions:84529-84682,84223-84329 target:/Lobster/mtico/fasta_gff_genomefiles/oncorhynchus_kisutch/Oncorhynchus_kisutch.Okis_V2.dna.toplevel.fa prediction_program:genewise
+>SEED.SELENOW2.SelW.2.selenocysteine.oncorhynchus_kisutch.Oncorhynchus_kisutch_Okis_V2_dna_toplevel chromosome:MPKV02004441.1 strand:- positions:84529-84682,84223-84329 target:/Lobster/mtico/fasta_gff_genomefiles/oncorhynchus_kisutch/Oncorhynchus_kisutch.Okis_V2.dna.toplevel.fa prediction_program:genewise
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -376,7 +376,7 @@ CFV--------VMG----------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelW2.SelW.6.selenocysteine.esox_lucius.Esox_lucius_Eluc_v4_dna_toplevel chromosome:LG02 strand:+ positions:12804382-12804502,12806321-12806430 target:/Lobster/mtico/fasta_gff_genomefiles/esox_lucius/Esox_lucius.Eluc_v4.dna.toplevel.fa prediction_program:genewise
+>SEED.SELENOW2.SelW.6.selenocysteine.esox_lucius.Esox_lucius_Eluc_v4_dna_toplevel chromosome:LG02 strand:+ positions:12804382-12804502,12806321-12806430 target:/Lobster/mtico/fasta_gff_genomefiles/esox_lucius/Esox_lucius.Eluc_v4.dna.toplevel.fa prediction_program:genewise
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -502,7 +502,7 @@ RW----------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelW2.SelW.1.selenocysteine.hucho_hucho.Hucho_hucho_ASM331708v1_dna_toplevel chromosome:QNTS01000585.1 strand:- positions:125677-125794,125342-125487 target:/Lobster/mtico/fasta_gff_genomefiles/hucho_hucho/Hucho_hucho.ASM331708v1.dna.toplevel.fa prediction_program:genewise
+>SEED.SELENOW2.SelW.1.selenocysteine.hucho_hucho.Hucho_hucho_ASM331708v1_dna_toplevel chromosome:QNTS01000585.1 strand:- positions:125677-125794,125342-125487 target:/Lobster/mtico/fasta_gff_genomefiles/hucho_hucho/Hucho_hucho.ASM331708v1.dna.toplevel.fa prediction_program:genewise
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -628,7 +628,7 @@ RW----------------------------------------------------------
 --------------------------------------------------QC--------
 ---------------IFM------YCLR--------------------------------
 -----------------------
->SEED.SelW2.SelW.1.selenocysteine.salmo_trutta.Salmo_trutta_fSalTru1_1_dna_toplevel chromosome:29 strand:+ positions:14075136-14075253,14075444-14075586 target:/Lobster/mtico/fasta_gff_genomefiles/salmo_trutta/Salmo_trutta.fSalTru1.1.dna.toplevel.fa prediction_program:genewise
+>SEED.SELENOW2.SelW.1.selenocysteine.salmo_trutta.Salmo_trutta_fSalTru1_1_dna_toplevel chromosome:29 strand:+ positions:14075136-14075253,14075444-14075586 target:/Lobster/mtico/fasta_gff_genomefiles/salmo_trutta/Salmo_trutta.fSalTru1.1.dna.toplevel.fa prediction_program:genewise
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -754,7 +754,7 @@ RW----------------------------------------------------------
 --------------------------------------------------SC--------
 ---------------IV-------------------------------------------
 -----------------------
->SEED.SelW2.SelW.6.selenocysteine.salmo_trutta.Salmo_trutta_fSalTru1_1_dna_toplevel chromosome:12 strand:- positions:31420982-31421118,31388253-31388351,31388043-31388184 target:/Lobster/mtico/fasta_gff_genomefiles/salmo_trutta/Salmo_trutta.fSalTru1.1.dna.toplevel.fa prediction_program:exonerate
+>SEED.SELENOW2.SelW.6.selenocysteine.salmo_trutta.Salmo_trutta_fSalTru1_1_dna_toplevel chromosome:12 strand:- positions:31420982-31421118,31388253-31388351,31388043-31388184 target:/Lobster/mtico/fasta_gff_genomefiles/salmo_trutta/Salmo_trutta.fSalTru1.1.dna.toplevel.fa prediction_program:exonerate
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -880,7 +880,7 @@ RW----------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelW2.SelW.6.selenocysteine.salmo_salar.Salmo_salar_Ssal_v3_1_dna_toplevel chromosome:11 strand:- positions:31929424-31929517,31929101-31929246 target:/Lobster/mtico/fasta_gff_genomefiles/salmo_salar/Salmo_salar.Ssal_v3.1.dna.toplevel.fa prediction_program:exonerate
+>SEED.SELENOW2.SelW.6.selenocysteine.salmo_salar.Salmo_salar_Ssal_v3_1_dna_toplevel chromosome:11 strand:- positions:31929424-31929517,31929101-31929246 target:/Lobster/mtico/fasta_gff_genomefiles/salmo_salar/Salmo_salar.Ssal_v3.1.dna.toplevel.fa prediction_program:exonerate
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1006,7 +1006,7 @@ RW----------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelW2.SelW.2.selenocysteine.myripristis_murdjan.Myripristis_murdjan_fMyrMur1_1_dna_toplevel chromosome:3 strand:- positions:23910304-23910427,23909206-23909294 target:/Lobster/mtico/fasta_gff_genomefiles/myripristis_murdjan/Myripristis_murdjan.fMyrMur1.1.dna.toplevel.fa prediction_program:genewise
+>SEED.SELENOW2.SelW.2.selenocysteine.myripristis_murdjan.Myripristis_murdjan_fMyrMur1_1_dna_toplevel chromosome:3 strand:- positions:23910304-23910427,23909206-23909294 target:/Lobster/mtico/fasta_gff_genomefiles/myripristis_murdjan/Myripristis_murdjan.fMyrMur1.1.dna.toplevel.fa prediction_program:genewise
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1132,7 +1132,7 @@ RW----------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelW2.SelW.2.selenocysteine.amphiprion_percula.Amphiprion_percula_Nemo_v1_dna_toplevel chromosome:1 strand:- positions:25620303-25620393,25619420-25619526 target:/Lobster/mtico/fasta_gff_genomefiles/amphiprion_percula/Amphiprion_percula.Nemo_v1.dna.toplevel.fa prediction_program:exonerate
+>SEED.SELENOW2.SelW.2.selenocysteine.amphiprion_percula.Amphiprion_percula_Nemo_v1_dna_toplevel chromosome:1 strand:- positions:25620303-25620393,25619420-25619526 target:/Lobster/mtico/fasta_gff_genomefiles/amphiprion_percula/Amphiprion_percula.Nemo_v1.dna.toplevel.fa prediction_program:exonerate
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1258,7 +1258,7 @@ VL-DTEKKK---------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelW2.SelW.2.selenocysteine.amphilophus_citrinellus.Amphilophus_citrinellus_Midas_v5_dna_toplevel chromosome:CCOE01001354.1 strand:- positions:1201057-1201147,1200683-1200759,1089286-1089414 target:/Lobster/mtico/fasta_gff_genomefiles/amphilophus_citrinellus/Amphilophus_citrinellus.Midas_v5.dna.toplevel.fa prediction_program:exonerate
+>SEED.SELENOW2.SelW.2.selenocysteine.amphilophus_citrinellus.Amphilophus_citrinellus_Midas_v5_dna_toplevel chromosome:CCOE01001354.1 strand:- positions:1201057-1201147,1200683-1200759,1089286-1089414 target:/Lobster/mtico/fasta_gff_genomefiles/amphilophus_citrinellus/Amphilophus_citrinellus.Midas_v5.dna.toplevel.fa prediction_program:exonerate
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1384,7 +1384,7 @@ VL-DTEKKK---------------------------------------------------
 --------------------------------------------------SC--------
 ---------------LVLASFTRQSSLKRRNPVF--------------------------
 -----------------------
->SEED.SelW2.SelW.2.selenocysteine.stegastes_partitus.Stegastes_partitus_Stegastes_partitus-1_0_2_dna_toplevel chromosome:KK582856.1 strand:- positions:14224-14380,13175-13284 target:/Lobster/mtico/fasta_gff_genomefiles/stegastes_partitus/Stegastes_partitus.Stegastes_partitus-1.0.2.dna.toplevel.fa prediction_program:exonerate
+>SEED.SELENOW2.SelW.2.selenocysteine.stegastes_partitus.Stegastes_partitus_Stegastes_partitus-1_0_2_dna_toplevel chromosome:KK582856.1 strand:- positions:14224-14380,13175-13284 target:/Lobster/mtico/fasta_gff_genomefiles/stegastes_partitus/Stegastes_partitus.Stegastes_partitus-1.0.2.dna.toplevel.fa prediction_program:exonerate
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1510,7 +1510,7 @@ LVCPM-------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelW2.SelW.3.selenocysteine.leptobrachium_leishanense.Leptobrachium_leishanense_ASM966780v1_dna_toplevel chromosome:3 strand:- positions:95963517-95963643,95962555-95962631,95961925-95962005 target:/Lobster/mtico/fasta_gff_genomefiles/leptobrachium_leishanense/Leptobrachium_leishanense.ASM966780v1.dna.toplevel.fa prediction_program:genewise
+>SEED.SELENOW2.SelW.3.selenocysteine.leptobrachium_leishanense.Leptobrachium_leishanense_ASM966780v1_dna_toplevel chromosome:3 strand:- positions:95963517-95963643,95962555-95962631,95961925-95962005 target:/Lobster/mtico/fasta_gff_genomefiles/leptobrachium_leishanense/Leptobrachium_leishanense.ASM966780v1.dna.toplevel.fa prediction_program:genewise
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1636,7 +1636,7 @@ LVCPM-------------------------------------------------------
 --------------------------------------------------TC--------
 ---------------SIQ------------------------------------------
 -----------------------
->SEED.SelW2.SelW.1.selenocysteine.xenopus_tropicalis.Xenopus_tropicalis_UCB_Xtro_10_0_dna_toplevel chromosome:3 strand:+ positions:104910016-104910166,104910775-104910860 target:/Lobster/mtico/fasta_gff_genomefiles/xenopus_tropicalis/Xenopus_tropicalis.UCB_Xtro_10.0.dna.toplevel.fa prediction_program:genewise
+>SEED.SELENOW2.SelW.1.selenocysteine.xenopus_tropicalis.Xenopus_tropicalis_UCB_Xtro_10_0_dna_toplevel chromosome:3 strand:+ positions:104910016-104910166,104910775-104910860 target:/Lobster/mtico/fasta_gff_genomefiles/xenopus_tropicalis/Xenopus_tropicalis.UCB_Xtro_10.0.dna.toplevel.fa prediction_program:genewise
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1762,7 +1762,7 @@ LVCPM-------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelW2.SelW.2.selenocysteine.pelodiscus_sinensis.Pelodiscus_sinensis_PelSin_1_0_dna_toplevel chromosome:JH224677.1 strand:+ positions:59301-59403,60926-61116 target:/Lobster/mtico/fasta_gff_genomefiles/pelodiscus_sinensis/Pelodiscus_sinensis.PelSin_1.0.dna.toplevel.fa prediction_program:genewise
+>SEED.SELENOW2.SelW.2.selenocysteine.pelodiscus_sinensis.Pelodiscus_sinensis_PelSin_1_0_dna_toplevel chromosome:JH224677.1 strand:+ positions:59301-59403,60926-61116 target:/Lobster/mtico/fasta_gff_genomefiles/pelodiscus_sinensis/Pelodiscus_sinensis.PelSin_1.0.dna.toplevel.fa prediction_program:genewise
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1888,7 +1888,7 @@ SENIVHSQQTCLRITTQQGSSFTDPLPKKK------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelV.SelW.4.selenocysteine.oryctolagus_cuniculus.Oryctolagus_cuniculus_OryCun2_0_dna_toplevel chromosome:5 strand:- positions:483625-484413,481780-481803,481633-481686,481444-481518,481275-481349 target:/Lobster/mtico/fasta_gff_genomefiles/oryctolagus_cuniculus/Oryctolagus_cuniculus.OryCun2.0.dna.toplevel.fa prediction_program:exonerate
+>SEED.SELENOV.SelW.4.selenocysteine.oryctolagus_cuniculus.Oryctolagus_cuniculus_OryCun2_0_dna_toplevel chromosome:5 strand:- positions:483625-484413,481780-481803,481633-481686,481444-481518,481275-481349 target:/Lobster/mtico/fasta_gff_genomefiles/oryctolagus_cuniculus/Oryctolagus_cuniculus.OryCun2.0.dna.toplevel.fa prediction_program:exonerate
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2014,7 +2014,7 @@ A------P------------AG--------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelV.SelW.2.selenocysteine.otolemur_garnettii.Otolemur_garnettii_OtoGar3_dna_toplevel chromosome:GL873752.1 strand:- positions:1385194-1385790,1383368-1383460,1383175-1383249,1382952-1383077 target:/Lobster/mtico/fasta_gff_genomefiles/otolemur_garnettii/Otolemur_garnettii.OtoGar3.dna.toplevel.fa prediction_program:genewise
+>SEED.SELENOV.SelW.2.selenocysteine.otolemur_garnettii.Otolemur_garnettii_OtoGar3_dna_toplevel chromosome:GL873752.1 strand:- positions:1385194-1385790,1383368-1383460,1383175-1383249,1382952-1383077 target:/Lobster/mtico/fasta_gff_genomefiles/otolemur_garnettii/Otolemur_garnettii.OtoGar3.dna.toplevel.fa prediction_program:genewise
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2140,7 +2140,7 @@ THL----P------------------------------PL--------------IP--S-
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelV.SelW.3.selenocysteine.microcebus_murinus.Microcebus_murinus_Mmur_3_0_dna_toplevel chromosome:22 strand:- positions:23232922-23233173,23231892-23232472,23231147-23231171,23230970-23231023,23230792-23230866,23230622-23230696 target:/Lobster/mtico/fasta_gff_genomefiles/microcebus_murinus/Microcebus_murinus.Mmur_3.0.dna.toplevel.fa prediction_program:genewise
+>SEED.SELENOV.SelW.3.selenocysteine.microcebus_murinus.Microcebus_murinus_Mmur_3_0_dna_toplevel chromosome:22 strand:- positions:23232922-23233173,23231892-23232472,23231147-23231171,23230970-23231023,23230792-23230866,23230622-23230696 target:/Lobster/mtico/fasta_gff_genomefiles/microcebus_murinus/Microcebus_murinus.Mmur_3.0.dna.toplevel.fa prediction_program:genewise
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2266,7 +2266,7 @@ RPF----PSPGPA---------P--------------APV-----------L------E-
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelV.SelW.3.selenocysteine.propithecus_coquereli.Propithecus_coquereli_Pcoq_1_0_dna_toplevel chromosome:KQ025180.1 strand:- positions:1409536-1410416,1408665-1408776,1408488-1408562,1408318-1408392 target:/Lobster/mtico/fasta_gff_genomefiles/propithecus_coquereli/Propithecus_coquereli.Pcoq_1.0.dna.toplevel.fa prediction_program:genewise
+>SEED.SELENOV.SelW.3.selenocysteine.propithecus_coquereli.Propithecus_coquereli_Pcoq_1_0_dna_toplevel chromosome:KQ025180.1 strand:- positions:1409536-1410416,1408665-1408776,1408488-1408562,1408318-1408392 target:/Lobster/mtico/fasta_gff_genomefiles/propithecus_coquereli/Propithecus_coquereli.Pcoq_1.0.dna.toplevel.fa prediction_program:genewise
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2392,7 +2392,7 @@ FPV---------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelV.SelW.3.selenocysteine.prolemur_simus.Prolemur_simus_Prosim_1_0_dna_toplevel chromosome:MPIZ01001148.1 strand:- positions:776298-777061,774743-774767,774551-774604,774373-774447,774202-774276 target:/Lobster/mtico/fasta_gff_genomefiles/prolemur_simus/Prolemur_simus.Prosim_1.0.dna.toplevel.fa prediction_program:exonerate
+>SEED.SELENOV.SelW.3.selenocysteine.prolemur_simus.Prolemur_simus_Prosim_1_0_dna_toplevel chromosome:MPIZ01001148.1 strand:- positions:776298-777061,774743-774767,774551-774604,774373-774447,774202-774276 target:/Lobster/mtico/fasta_gff_genomefiles/prolemur_simus/Prolemur_simus.Prosim_1.0.dna.toplevel.fa prediction_program:exonerate
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2518,7 +2518,7 @@ KPF----PWPVLI---------G--------------APV-----------PGTGS--L-
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelV.SelW.3.selenocysteine.carlito_syrichta.Carlito_syrichta_Tarsius_syrichta-2_0_1_dna_toplevel chromosome:ABRT02164147.1 strand:- positions:586-669,421-474,250-324,85-159 target:/Lobster/mtico/fasta_gff_genomefiles/carlito_syrichta/Carlito_syrichta.Tarsius_syrichta-2.0.1.dna.toplevel.fa prediction_program:exonerate
+>SEED.SELENOV.SelW.3.selenocysteine.carlito_syrichta.Carlito_syrichta_Tarsius_syrichta-2_0_1_dna_toplevel chromosome:ABRT02164147.1 strand:- positions:586-669,421-474,250-324,85-159 target:/Lobster/mtico/fasta_gff_genomefiles/carlito_syrichta/Carlito_syrichta.Tarsius_syrichta-2.0.1.dna.toplevel.fa prediction_program:exonerate
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2644,7 +2644,7 @@ KPF----PWPVLI---------G--------------APV-----------PGTGS--L-
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelV.SelW.4.selenocysteine.saimiri_boliviensis_boliviensis.Saimiri_boliviensis_boliviensis_SaiBol1_0_dna_toplevel chromosome:JH378281.1 strand:- positions:1023176-1023480,1022632-1023123,1020723-1020747,1020563-1020616,1020403-1020477,1020235-1020309 target:/Lobster/mtico/fasta_gff_genomefiles/saimiri_boliviensis_boliviensis/Saimiri_boliviensis_boliviensis.SaiBol1.0.dna.toplevel.fa prediction_program:exonerate
+>SEED.SELENOV.SelW.4.selenocysteine.saimiri_boliviensis_boliviensis.Saimiri_boliviensis_boliviensis_SaiBol1_0_dna_toplevel chromosome:JH378281.1 strand:- positions:1023176-1023480,1022632-1023123,1020723-1020747,1020563-1020616,1020403-1020477,1020235-1020309 target:/Lobster/mtico/fasta_gff_genomefiles/saimiri_boliviensis_boliviensis/Saimiri_boliviensis_boliviensis.SaiBol1.0.dna.toplevel.fa prediction_program:exonerate
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2770,7 +2770,7 @@ ADH----TIPGSV---------P--------------API-----------PGTIP--S-
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelV.SelW.4.selenocysteine.aotus_nancymaae.Aotus_nancymaae_Anan_2_0_dna_toplevel chromosome:KZ199075.1 strand:+ positions:2226114-2226137,2226244-2226297,2226382-2226456,2226550-2226624 target:/Lobster/mtico/fasta_gff_genomefiles/aotus_nancymaae/Aotus_nancymaae.Anan_2.0.dna.toplevel.fa prediction_program:exonerate
+>SEED.SELENOV.SelW.4.selenocysteine.aotus_nancymaae.Aotus_nancymaae_Anan_2_0_dna_toplevel chromosome:KZ199075.1 strand:+ positions:2226114-2226137,2226244-2226297,2226382-2226456,2226550-2226624 target:/Lobster/mtico/fasta_gff_genomefiles/aotus_nancymaae/Aotus_nancymaae.Anan_2.0.dna.toplevel.fa prediction_program:exonerate
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2896,7 +2896,7 @@ ADH----TIPGSV---------P--------------API-----------PGTIP--S-
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelV.SelW.8.selenocysteine.cebus_capucinus.Cebus_capucinus_Cebus_imitator-1_0_dna_toplevel chromosome:KV389732.1 strand:+ positions:2093279-2094126,2096032-2096056,2096163-2096216,2096302-2096376,2096470-2096544 target:/Lobster/mtico/fasta_gff_genomefiles/cebus_capucinus/Cebus_capucinus.Cebus_imitator-1.0.dna.toplevel.fa prediction_program:genewise
+>SEED.SELENOV.SelW.8.selenocysteine.cebus_capucinus.Cebus_capucinus_Cebus_imitator-1_0_dna_toplevel chromosome:KV389732.1 strand:+ positions:2093279-2094126,2096032-2096056,2096163-2096216,2096302-2096376,2096470-2096544 target:/Lobster/mtico/fasta_gff_genomefiles/cebus_capucinus/Cebus_capucinus.Cebus_imitator-1.0.dna.toplevel.fa prediction_program:genewise
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3022,7 +3022,7 @@ ADP----TIPSSV---------P--------------API-----------LGTIP--S-
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelV.SelW.3.selenocysteine.pan_paniscus.Pan_paniscus_panpan1_1_dna_toplevel chromosome:19 strand:+ positions:45160818-45162037,45165198-45165222,45165330-45165383,45165493-45165567,45165661-45165735 target:/Lobster/mtico/fasta_gff_genomefiles/pan_paniscus/Pan_paniscus.panpan1.1.dna.toplevel.fa prediction_program:genewise
+>SEED.SELENOV.SelW.3.selenocysteine.pan_paniscus.Pan_paniscus_panpan1_1_dna_toplevel chromosome:19 strand:+ positions:45160818-45162037,45165198-45165222,45165330-45165383,45165493-45165567,45165661-45165735 target:/Lobster/mtico/fasta_gff_genomefiles/pan_paniscus/Pan_paniscus.panpan1.1.dna.toplevel.fa prediction_program:genewise
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3148,7 +3148,7 @@ ADP----PIPSPV---------P--------------SPI-----------LGTIP--S-
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelV.SelW.5.selenocysteine.pan_troglodytes.Pan_troglodytes_Pan_tro_3_0_dna_toplevel chromosome:19 strand:+ positions:41529659-41530878,41533456-41533480,41533588-41533641,41533751-41533825,41533919-41533993 target:/Lobster/mtico/fasta_gff_genomefiles/pan_troglodytes/Pan_troglodytes.Pan_tro_3.0.dna.toplevel.fa prediction_program:genewise
+>SEED.SELENOV.SelW.5.selenocysteine.pan_troglodytes.Pan_troglodytes_Pan_tro_3_0_dna_toplevel chromosome:19 strand:+ positions:41529659-41530878,41533456-41533480,41533588-41533641,41533751-41533825,41533919-41533993 target:/Lobster/mtico/fasta_gff_genomefiles/pan_troglodytes/Pan_troglodytes.Pan_tro_3.0.dna.toplevel.fa prediction_program:genewise
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3274,7 +3274,7 @@ ADP----PIPSPV---------P--------------SPI-----------LGTIP--S-
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelV.SelW.4.selenocysteine.piliocolobus_tephrosceles.Piliocolobus_tephrosceles_ASM277652v2_dna_toplevel chromosome:PDMG02024953.1 strand:- positions:3705-4651,1183-1207,1022-1075,837-911,669-743 target:/Lobster/mtico/fasta_gff_genomefiles/piliocolobus_tephrosceles/Piliocolobus_tephrosceles.ASM277652v2.dna.toplevel.fa prediction_program:genewise
+>SEED.SELENOV.SelW.4.selenocysteine.piliocolobus_tephrosceles.Piliocolobus_tephrosceles_ASM277652v2_dna_toplevel chromosome:PDMG02024953.1 strand:- positions:3705-4651,1183-1207,1022-1075,837-911,669-743 target:/Lobster/mtico/fasta_gff_genomefiles/piliocolobus_tephrosceles/Piliocolobus_tephrosceles.ASM277652v2.dna.toplevel.fa prediction_program:genewise
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3400,7 +3400,7 @@ ADP----HMPSPV---------P--------------API-----------LGTIP--S-
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelW1.SelW.6.selenocysteine.sinocyclocheilus_anshuiensis.Sinocyclocheilus_anshuiensis_SAMN03320099_WGS_v1_1_dna_toplevel chromosome:LAVE01S000038.1 strand:+ positions:624682-624710,625247-625271,625366-625419,625566-625640,629817-629891 target:/Lobster/mtico/fasta_gff_genomefiles/sinocyclocheilus_anshuiensis/Sinocyclocheilus_anshuiensis.SAMN03320099.WGS_v1.1.dna.toplevel.fa prediction_program:exonerate
+>SEED.SELENOW1.SelW.6.selenocysteine.sinocyclocheilus_anshuiensis.Sinocyclocheilus_anshuiensis_SAMN03320099_WGS_v1_1_dna_toplevel chromosome:LAVE01S000038.1 strand:+ positions:624682-624710,625247-625271,625366-625419,625566-625640,629817-629891 target:/Lobster/mtico/fasta_gff_genomefiles/sinocyclocheilus_anshuiensis/Sinocyclocheilus_anshuiensis.SAMN03320099.WGS_v1.1.dna.toplevel.fa prediction_program:exonerate
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3526,7 +3526,7 @@ ADP----HMPSPV---------P--------------API-----------LGTIP--S-
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelW1.SelW.3.selenocysteine.scleropages_formosus.Scleropages_formosus_fSclFor1_1_dna_toplevel chromosome:3 strand:+ positions:1533773-1533801,1534410-1534434,1534544-1534597,1534690-1534878 target:/Lobster/mtico/fasta_gff_genomefiles/scleropages_formosus/Scleropages_formosus.fSclFor1.1.dna.toplevel.fa prediction_program:exonerate
+>SEED.SELENOW1.SelW.3.selenocysteine.scleropages_formosus.Scleropages_formosus_fSclFor1_1_dna_toplevel chromosome:3 strand:+ positions:1533773-1533801,1534410-1534434,1534544-1534597,1534690-1534878 target:/Lobster/mtico/fasta_gff_genomefiles/scleropages_formosus/Scleropages_formosus.fSclFor1.1.dna.toplevel.fa prediction_program:exonerate
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3652,7 +3652,7 @@ ADP----HMPSPV---------P--------------API-----------LGTIP--S-
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelW1.SelW.7.selenocysteine.paramormyrops_kingsleyae.Paramormyrops_kingsleyae_PKINGS_0_1_dna_toplevel chromosome:PGUA01000064.1 strand:- positions:1936755-1936783,1936229-1936253,1936056-1936109,1935683-1935769 target:/Lobster/mtico/fasta_gff_genomefiles/paramormyrops_kingsleyae/Paramormyrops_kingsleyae.PKINGS_0.1.dna.toplevel.fa prediction_program:exonerate
+>SEED.SELENOW1.SelW.7.selenocysteine.paramormyrops_kingsleyae.Paramormyrops_kingsleyae_PKINGS_0_1_dna_toplevel chromosome:PGUA01000064.1 strand:- positions:1936755-1936783,1936229-1936253,1936056-1936109,1935683-1935769 target:/Lobster/mtico/fasta_gff_genomefiles/paramormyrops_kingsleyae/Paramormyrops_kingsleyae.PKINGS_0.1.dna.toplevel.fa prediction_program:exonerate
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3778,7 +3778,7 @@ ADP----HMPSPV---------P--------------API-----------LGTIP--S-
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelW1.SelW.4.selenocysteine.ictalurus_punctatus.Ictalurus_punctatus_IpCoco_1_2_dna_toplevel chromosome:28 strand:+ positions:4592628-4592857,4594089-4594113,4594238-4594291,4595832-4595906,4596596-4596670 target:/Lobster/mtico/fasta_gff_genomefiles/ictalurus_punctatus/Ictalurus_punctatus.IpCoco_1.2.dna.toplevel.fa prediction_program:exonerate
+>SEED.SELENOW1.SelW.4.selenocysteine.ictalurus_punctatus.Ictalurus_punctatus_IpCoco_1_2_dna_toplevel chromosome:28 strand:+ positions:4592628-4592857,4594089-4594113,4594238-4594291,4595832-4595906,4596596-4596670 target:/Lobster/mtico/fasta_gff_genomefiles/ictalurus_punctatus/Ictalurus_punctatus.IpCoco_1.2.dna.toplevel.fa prediction_program:exonerate
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3904,7 +3904,7 @@ CLIR-------TRASKIVE-----------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelW1.SelW.2.selenocysteine.electrophorus_electricus.Electrophorus_electricus_Ee_SOAP_WITH_SSPACE_dna_toplevel chromosome:RBHW02000077.1 strand:+ positions:1994594-1994622,1995377-1995401,1995510-1995563,1996004-1996078,1996465-1996539 target:/Lobster/mtico/fasta_gff_genomefiles/electrophorus_electricus/Electrophorus_electricus.Ee_SOAP_WITH_SSPACE.dna.toplevel.fa prediction_program:exonerate
+>SEED.SELENOW1.SelW.2.selenocysteine.electrophorus_electricus.Electrophorus_electricus_Ee_SOAP_WITH_SSPACE_dna_toplevel chromosome:RBHW02000077.1 strand:+ positions:1994594-1994622,1995377-1995401,1995510-1995563,1996004-1996078,1996465-1996539 target:/Lobster/mtico/fasta_gff_genomefiles/electrophorus_electricus/Electrophorus_electricus.Ee_SOAP_WITH_SSPACE.dna.toplevel.fa prediction_program:exonerate
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -4030,7 +4030,7 @@ CLIR-------TRASKIVE-----------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelW1.SelW.3.selenocysteine.pygocentrus_nattereri.Pygocentrus_nattereri_Pygocentrus_nattereri-1_0_2_dna_toplevel chromosome:KV575288.1 strand:- positions:5379089-5379261,5378032-5378056,5377872-5377925,5375502-5375576,5374890-5374964 target:/Lobster/mtico/fasta_gff_genomefiles/pygocentrus_nattereri/Pygocentrus_nattereri.Pygocentrus_nattereri-1.0.2.dna.toplevel.fa prediction_program:exonerate
+>SEED.SELENOW1.SelW.3.selenocysteine.pygocentrus_nattereri.Pygocentrus_nattereri_Pygocentrus_nattereri-1_0_2_dna_toplevel chromosome:KV575288.1 strand:- positions:5379089-5379261,5378032-5378056,5377872-5377925,5375502-5375576,5374890-5374964 target:/Lobster/mtico/fasta_gff_genomefiles/pygocentrus_nattereri/Pygocentrus_nattereri.Pygocentrus_nattereri-1.0.2.dna.toplevel.fa prediction_program:exonerate
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -4156,7 +4156,7 @@ ATLVPAPLRQADPCR-HC-------LDQTRSVTTAA------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelW1.SelW.6.selenocysteine.oncorhynchus_tshawytscha.Oncorhynchus_tshawytscha_Otsh_v1_0_dna_toplevel chromosome:33 strand:+ positions:28637840-28638000,28638265-28638289,28638394-28638447,28638572-28638796 target:/Lobster/mtico/fasta_gff_genomefiles/oncorhynchus_tshawytscha/Oncorhynchus_tshawytscha.Otsh_v1.0.dna.toplevel.fa prediction_program:exonerate
+>SEED.SELENOW1.SelW.6.selenocysteine.oncorhynchus_tshawytscha.Oncorhynchus_tshawytscha_Otsh_v1_0_dna_toplevel chromosome:33 strand:+ positions:28637840-28638000,28638265-28638289,28638394-28638447,28638572-28638796 target:/Lobster/mtico/fasta_gff_genomefiles/oncorhynchus_tshawytscha/Oncorhynchus_tshawytscha.Otsh_v1.0.dna.toplevel.fa prediction_program:exonerate
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -4282,7 +4282,7 @@ LRLNYFI-------TTSNIKEIALHRQPFCNYYLSRRRAAAICD----------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelW1.SelW.8.selenocysteine.oncorhynchus_kisutch.Oncorhynchus_kisutch_Okis_V2_dna_toplevel chromosome:LG29 strand:+ positions:31026418-31026450,31026555-31026608,31026738-31026962 target:/Lobster/mtico/fasta_gff_genomefiles/oncorhynchus_kisutch/Oncorhynchus_kisutch.Okis_V2.dna.toplevel.fa prediction_program:exonerate
+>SEED.SELENOW1.SelW.8.selenocysteine.oncorhynchus_kisutch.Oncorhynchus_kisutch_Okis_V2_dna_toplevel chromosome:LG29 strand:+ positions:31026418-31026450,31026555-31026608,31026738-31026962 target:/Lobster/mtico/fasta_gff_genomefiles/oncorhynchus_kisutch/Oncorhynchus_kisutch.Okis_V2.dna.toplevel.fa prediction_program:exonerate
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -4408,7 +4408,7 @@ LRLNYFI-------TTSNIKEIALHRQPFCNYYLSRRRAAAICD----------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelW1.SelW.5.selenocysteine.hucho_hucho.Hucho_hucho_ASM331708v1_dna_toplevel chromosome:QNTS01000403.1 strand:+ positions:555566-555619,555724-555777,555900-556154 target:/Lobster/mtico/fasta_gff_genomefiles/hucho_hucho/Hucho_hucho.ASM331708v1.dna.toplevel.fa prediction_program:exonerate
+>SEED.SELENOW1.SelW.5.selenocysteine.hucho_hucho.Hucho_hucho_ASM331708v1_dna_toplevel chromosome:QNTS01000403.1 strand:+ positions:555566-555619,555724-555777,555900-556154 target:/Lobster/mtico/fasta_gff_genomefiles/hucho_hucho/Hucho_hucho.ASM331708v1.dna.toplevel.fa prediction_program:exonerate
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -4534,7 +4534,7 @@ KMATLVDAIEKVLGK---------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelW1.SelW.7.selenocysteine.salmo_trutta.Salmo_trutta_fSalTru1_1_dna_toplevel chromosome:12 strand:- positions:80733758-80733790,80733589-80733642,80733307-80733459 target:/Lobster/mtico/fasta_gff_genomefiles/salmo_trutta/Salmo_trutta.fSalTru1.1.dna.toplevel.fa prediction_program:exonerate
+>SEED.SELENOW1.SelW.7.selenocysteine.salmo_trutta.Salmo_trutta_fSalTru1_1_dna_toplevel chromosome:12 strand:- positions:80733758-80733790,80733589-80733642,80733307-80733459 target:/Lobster/mtico/fasta_gff_genomefiles/salmo_trutta/Salmo_trutta.fSalTru1.1.dna.toplevel.fa prediction_program:exonerate
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -4660,7 +4660,7 @@ KMATLVDAIEKVLGK---------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelW1.SelW.5.selenocysteine.esox_lucius.Esox_lucius_Eluc_v4_dna_toplevel chromosome:LG07 strand:- positions:39511990-39512018,39511240-39511264,39511090-39511143,39510859-39510933,39510651-39510725 target:/Lobster/mtico/fasta_gff_genomefiles/esox_lucius/Esox_lucius.Eluc_v4.dna.toplevel.fa prediction_program:exonerate
+>SEED.SELENOW1.SelW.5.selenocysteine.esox_lucius.Esox_lucius_Eluc_v4_dna_toplevel chromosome:LG07 strand:- positions:39511990-39512018,39511240-39511264,39511090-39511143,39510859-39510933,39510651-39510725 target:/Lobster/mtico/fasta_gff_genomefiles/esox_lucius/Esox_lucius.Eluc_v4.dna.toplevel.fa prediction_program:exonerate
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -4786,7 +4786,7 @@ KMATLVDAIEKVLGK---------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelW1.SelW.1.selenocysteine.anolis_carolinensis.Anolis_carolinensis_AnoCar2_0v2_dna_toplevel chromosome:GL343403.1 strand:+ positions:400154-400585 target:/Lobster/mtico/fasta_gff_genomefiles/anolis_carolinensis/Anolis_carolinensis.AnoCar2.0v2.dna.toplevel.fa prediction_program:genewise
+>SEED.SELENOW1.SelW.1.selenocysteine.anolis_carolinensis.Anolis_carolinensis_AnoCar2_0v2_dna_toplevel chromosome:GL343403.1 strand:+ positions:400154-400585 target:/Lobster/mtico/fasta_gff_genomefiles/anolis_carolinensis/Anolis_carolinensis.AnoCar2.0v2.dna.toplevel.fa prediction_program:genewise
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -4912,7 +4912,7 @@ KSSKASEESSKAPEKNSKASEKSSKASEKSSKTSEKSSKALEESSSSQK-----------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelW1.SelW.3.selenocysteine.pogona_vitticeps.Pogona_vitticeps_pvi1_1_dna_toplevel chromosome:CEMB01005750.1 strand:- positions:237999-238193 target:/Lobster/mtico/fasta_gff_genomefiles/pogona_vitticeps/Pogona_vitticeps.pvi1.1.dna.toplevel.fa prediction_program:genewise
+>SEED.SELENOW1.SelW.3.selenocysteine.pogona_vitticeps.Pogona_vitticeps_pvi1_1_dna_toplevel chromosome:CEMB01005750.1 strand:- positions:237999-238193 target:/Lobster/mtico/fasta_gff_genomefiles/pogona_vitticeps/Pogona_vitticeps.pvi1.1.dna.toplevel.fa prediction_program:genewise
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -5038,7 +5038,7 @@ KSSKASEESSKAPEKNSKASEKSSKASEKSSKTSEKSSKALEESSSSQK-----------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelW1.SelW.1.selenocysteine.ailuropoda_melanoleuca.Ailuropoda_melanoleuca_ASM200744v2_dna_toplevel chromosome:LNAT02053891.1 strand:+ positions:9-278 target:/Lobster/mtico/fasta_gff_genomefiles/ailuropoda_melanoleuca/Ailuropoda_melanoleuca.ASM200744v2.dna.toplevel.fa prediction_program:genewise
+>SEED.SELENOW1.SelW.1.selenocysteine.ailuropoda_melanoleuca.Ailuropoda_melanoleuca_ASM200744v2_dna_toplevel chromosome:LNAT02053891.1 strand:+ positions:9-278 target:/Lobster/mtico/fasta_gff_genomefiles/ailuropoda_melanoleuca/Ailuropoda_melanoleuca.ASM200744v2.dna.toplevel.fa prediction_program:genewise
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -5164,7 +5164,7 @@ KSSKASEESSKAPEKNSKASEKSSKASEKSSKTSEKSSKALEESSSSQK-----------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelW1.SelW.2.selenocysteine.ailuropoda_melanoleuca.Ailuropoda_melanoleuca_ASM200744v2_dna_toplevel chromosome:LNAT02057406.1 strand:+ positions:59-316 target:/Lobster/mtico/fasta_gff_genomefiles/ailuropoda_melanoleuca/Ailuropoda_melanoleuca.ASM200744v2.dna.toplevel.fa prediction_program:blast
+>SEED.SELENOW1.SelW.2.selenocysteine.ailuropoda_melanoleuca.Ailuropoda_melanoleuca_ASM200744v2_dna_toplevel chromosome:LNAT02057406.1 strand:+ positions:59-316 target:/Lobster/mtico/fasta_gff_genomefiles/ailuropoda_melanoleuca/Ailuropoda_melanoleuca.ASM200744v2.dna.toplevel.fa prediction_program:blast
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -5290,7 +5290,7 @@ KSSKASEESSKAPEKNSKASEKSSKASEKSSKTSEKSSKALEESSSSQK-----------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelW1.SelW.2.selenocysteine.lepisosteus_oculatus.Lepisosteus_oculatus_LepOcu1_dna_toplevel chromosome:LG4 strand:+ positions:13340270-13340449 target:/Lobster/mtico/fasta_gff_genomefiles/lepisosteus_oculatus/Lepisosteus_oculatus.LepOcu1.dna.toplevel.fa prediction_program:genewise
+>SEED.SELENOW1.SelW.2.selenocysteine.lepisosteus_oculatus.Lepisosteus_oculatus_LepOcu1_dna_toplevel chromosome:LG4 strand:+ positions:13340270-13340449 target:/Lobster/mtico/fasta_gff_genomefiles/lepisosteus_oculatus/Lepisosteus_oculatus.LepOcu1.dna.toplevel.fa prediction_program:genewise
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -5416,7 +5416,7 @@ KSSKASEESSKAPEKNSKASEKSSKASEKSSKTSEKSSKALEESSSSQK-----------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelW1.SelW.2.selenocysteine.sarcophilus_harrisii.Sarcophilus_harrisii_mSarHar1_11_dna_toplevel chromosome:3 strand:+ positions:591516341-591516676,591516792-591516845,591517193-591517321 target:/Lobster/mtico/fasta_gff_genomefiles/sarcophilus_harrisii/Sarcophilus_harrisii.mSarHar1.11.dna.toplevel.fa prediction_program:exonerate
+>SEED.SELENOW1.SelW.2.selenocysteine.sarcophilus_harrisii.Sarcophilus_harrisii_mSarHar1_11_dna_toplevel chromosome:3 strand:+ positions:591516341-591516676,591516792-591516845,591517193-591517321 target:/Lobster/mtico/fasta_gff_genomefiles/sarcophilus_harrisii/Sarcophilus_harrisii.mSarHar1.11.dna.toplevel.fa prediction_program:exonerate
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -5542,7 +5542,7 @@ PAS---------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelW1.SelW.2.selenocysteine.notamacropus_eugenii.Notamacropus_eugenii_Meug_1_0_dna_toplevel chromosome:Scaffold63825 strand:- positions:4372-4395,4204-4257,3533-3862 target:/Lobster/mtico/fasta_gff_genomefiles/notamacropus_eugenii/Notamacropus_eugenii.Meug_1.0.dna.toplevel.fa prediction_program:exonerate
+>SEED.SELENOW1.SelW.2.selenocysteine.notamacropus_eugenii.Notamacropus_eugenii_Meug_1_0_dna_toplevel chromosome:Scaffold63825 strand:- positions:4372-4395,4204-4257,3533-3862 target:/Lobster/mtico/fasta_gff_genomefiles/notamacropus_eugenii/Notamacropus_eugenii.Meug_1.0.dna.toplevel.fa prediction_program:exonerate
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -5668,7 +5668,7 @@ KSWASEA-----------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelW1.SelW.5.selenocysteine.vombatus_ursinus.Vombatus_ursinus_bare-nosed_wombat_genome_assembly_dna_toplevel chromosome:UNPS02015030.1 strand:- positions:1703389-1703412,1703222-1703275,1702806-1702880,1702521-1702595 target:/Lobster/mtico/fasta_gff_genomefiles/vombatus_ursinus/Vombatus_ursinus.bare-nosed_wombat_genome_assembly.dna.toplevel.fa prediction_program:exonerate
+>SEED.SELENOW1.SelW.5.selenocysteine.vombatus_ursinus.Vombatus_ursinus_bare-nosed_wombat_genome_assembly_dna_toplevel chromosome:UNPS02015030.1 strand:- positions:1703389-1703412,1703222-1703275,1702806-1702880,1702521-1702595 target:/Lobster/mtico/fasta_gff_genomefiles/vombatus_ursinus/Vombatus_ursinus.bare-nosed_wombat_genome_assembly.dna.toplevel.fa prediction_program:exonerate
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -5794,7 +5794,7 @@ KSWASEA-----------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelW1.SelW.2.selenocysteine.pteropus_vampyrus.Pteropus_vampyrus_pteVam1_dna_toplevel chromosome:GeneScaffold_111 strand:+ positions:36332-36885,38302-38326,38429-38482,38647-38721,38818-38895 target:/Lobster/mtico/fasta_gff_genomefiles/pteropus_vampyrus/Pteropus_vampyrus.pteVam1.dna.toplevel.fa prediction_program:exonerate
+>SEED.SELENOW1.SelW.2.selenocysteine.pteropus_vampyrus.Pteropus_vampyrus_pteVam1_dna_toplevel chromosome:GeneScaffold_111 strand:+ positions:36332-36885,38302-38326,38429-38482,38647-38721,38818-38895 target:/Lobster/mtico/fasta_gff_genomefiles/pteropus_vampyrus/Pteropus_vampyrus.pteVam1.dna.toplevel.fa prediction_program:exonerate
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -5920,7 +5920,7 @@ ASAVPRMLRS------RV------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelW1.SelW.5.selenocysteine.dasypus_novemcinctus.Dasypus_novemcinctus_Dasnov3_0_dna_toplevel chromosome:JH566167.1 strand:+ positions:3314059-3314418 target:/Lobster/mtico/fasta_gff_genomefiles/dasypus_novemcinctus/Dasypus_novemcinctus.Dasnov3.0.dna.toplevel.fa prediction_program:genewise
+>SEED.SELENOW1.SelW.5.selenocysteine.dasypus_novemcinctus.Dasypus_novemcinctus_Dasnov3_0_dna_toplevel chromosome:JH566167.1 strand:+ positions:3314059-3314418 target:/Lobster/mtico/fasta_gff_genomefiles/dasypus_novemcinctus/Dasypus_novemcinctus.Dasnov3.0.dna.toplevel.fa prediction_program:genewise
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6046,7 +6046,7 @@ ASAVPRMLRS------RV------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelW1.SelW.4.selenocysteine.dasypus_novemcinctus.Dasypus_novemcinctus_Dasnov3_0_dna_toplevel chromosome:JH561748.1 strand:- positions:429426-429521,428752-428934 target:/Lobster/mtico/fasta_gff_genomefiles/dasypus_novemcinctus/Dasypus_novemcinctus.Dasnov3.0.dna.toplevel.fa prediction_program:genewise
+>SEED.SELENOW1.SelW.4.selenocysteine.dasypus_novemcinctus.Dasypus_novemcinctus_Dasnov3_0_dna_toplevel chromosome:JH561748.1 strand:- positions:429426-429521,428752-428934 target:/Lobster/mtico/fasta_gff_genomefiles/dasypus_novemcinctus/Dasypus_novemcinctus.Dasnov3.0.dna.toplevel.fa prediction_program:genewise
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6172,7 +6172,7 @@ ASAVPRMLRS------RV------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelW1.SelW.1.selenocysteine.dasypus_novemcinctus.Dasypus_novemcinctus_Dasnov3_0_dna_toplevel chromosome:JH567306.1 strand:- positions:265096-265374 target:/Lobster/mtico/fasta_gff_genomefiles/dasypus_novemcinctus/Dasypus_novemcinctus.Dasnov3.0.dna.toplevel.fa prediction_program:blast
+>SEED.SELENOW1.SelW.1.selenocysteine.dasypus_novemcinctus.Dasypus_novemcinctus_Dasnov3_0_dna_toplevel chromosome:JH567306.1 strand:- positions:265096-265374 target:/Lobster/mtico/fasta_gff_genomefiles/dasypus_novemcinctus/Dasypus_novemcinctus.Dasnov3.0.dna.toplevel.fa prediction_program:blast
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6298,7 +6298,7 @@ ASAVPRMLRS------RV------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelW1.SelW.3.selenocysteine.dasypus_novemcinctus.Dasypus_novemcinctus_Dasnov3_0_dna_toplevel chromosome:JH571788.1 strand:+ positions:2477823-2478155 target:/Lobster/mtico/fasta_gff_genomefiles/dasypus_novemcinctus/Dasypus_novemcinctus.Dasnov3.0.dna.toplevel.fa prediction_program:genewise
+>SEED.SELENOW1.SelW.3.selenocysteine.dasypus_novemcinctus.Dasypus_novemcinctus_Dasnov3_0_dna_toplevel chromosome:JH571788.1 strand:+ positions:2477823-2478155 target:/Lobster/mtico/fasta_gff_genomefiles/dasypus_novemcinctus/Dasypus_novemcinctus.Dasnov3.0.dna.toplevel.fa prediction_program:genewise
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6424,7 +6424,7 @@ ASAVPRMLRS------RV------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelW1.SelW.10.selenocysteine.dasypus_novemcinctus.Dasypus_novemcinctus_Dasnov3_0_dna_toplevel chromosome:JH568932.1 strand:+ positions:46247-46293,47726-47750,47871-47924,48056-48130,48237-48314 target:/Lobster/mtico/fasta_gff_genomefiles/dasypus_novemcinctus/Dasypus_novemcinctus.Dasnov3.0.dna.toplevel.fa prediction_program:exonerate
+>SEED.SELENOW1.SelW.10.selenocysteine.dasypus_novemcinctus.Dasypus_novemcinctus_Dasnov3_0_dna_toplevel chromosome:JH568932.1 strand:+ positions:46247-46293,47726-47750,47871-47924,48056-48130,48237-48314 target:/Lobster/mtico/fasta_gff_genomefiles/dasypus_novemcinctus/Dasypus_novemcinctus.Dasnov3.0.dna.toplevel.fa prediction_program:exonerate
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6550,7 +6550,7 @@ ASAVPRMLRS------RV------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelW1.SelW.1.selenocysteine.choloepus_hoffmanni.Choloepus_hoffmanni_choHof1_dna_toplevel chromosome:GeneScaffold_8112 strand:- positions:26581-26961 target:/Lobster/mtico/fasta_gff_genomefiles/choloepus_hoffmanni/Choloepus_hoffmanni.choHof1.dna.toplevel.fa prediction_program:genewise
+>SEED.SELENOW1.SelW.1.selenocysteine.choloepus_hoffmanni.Choloepus_hoffmanni_choHof1_dna_toplevel chromosome:GeneScaffold_8112 strand:- positions:26581-26961 target:/Lobster/mtico/fasta_gff_genomefiles/choloepus_hoffmanni/Choloepus_hoffmanni.choHof1.dna.toplevel.fa prediction_program:genewise
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6676,7 +6676,7 @@ ASAVPRMLRS------RV------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelW1.SelW.5.selenocysteine.nannospalax_galili.Nannospalax_galili_S_galili_v1_0_dna_toplevel chromosome:KL199249.1 strand:- positions:1436411-1436434,1436259-1436312,1436022-1436096,1435846-1435926 target:/Lobster/mtico/fasta_gff_genomefiles/nannospalax_galili/Nannospalax_galili.S.galili_v1.0.dna.toplevel.fa prediction_program:exonerate
+>SEED.SELENOW1.SelW.5.selenocysteine.nannospalax_galili.Nannospalax_galili_S_galili_v1_0_dna_toplevel chromosome:KL199249.1 strand:- positions:1436411-1436434,1436259-1436312,1436022-1436096,1435846-1435926 target:/Lobster/mtico/fasta_gff_genomefiles/nannospalax_galili/Nannospalax_galili.S.galili_v1.0.dna.toplevel.fa prediction_program:exonerate
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6802,7 +6802,7 @@ ASAVPRMLRS------RV------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelW1.SelW.3.selenocysteine.jaculus_jaculus.Jaculus_jaculus_JacJac1_0_dna_toplevel chromosome:JH725443.1 strand:- positions:290817-291059 target:/Lobster/mtico/fasta_gff_genomefiles/jaculus_jaculus/Jaculus_jaculus.JacJac1.0.dna.toplevel.fa prediction_program:genewise
+>SEED.SELENOW1.SelW.3.selenocysteine.jaculus_jaculus.Jaculus_jaculus_JacJac1_0_dna_toplevel chromosome:JH725443.1 strand:- positions:290817-291059 target:/Lobster/mtico/fasta_gff_genomefiles/jaculus_jaculus/Jaculus_jaculus.JacJac1.0.dna.toplevel.fa prediction_program:genewise
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6928,7 +6928,7 @@ ASAVPRMLRS------RV------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelW1.SelW.6.selenocysteine.jaculus_jaculus.Jaculus_jaculus_JacJac1_0_dna_toplevel chromosome:JH725606.1 strand:- positions:2630853-2631593 target:/Lobster/mtico/fasta_gff_genomefiles/jaculus_jaculus/Jaculus_jaculus.JacJac1.0.dna.toplevel.fa prediction_program:genewise
+>SEED.SELENOW1.SelW.6.selenocysteine.jaculus_jaculus.Jaculus_jaculus_JacJac1_0_dna_toplevel chromosome:JH725606.1 strand:- positions:2630853-2631593 target:/Lobster/mtico/fasta_gff_genomefiles/jaculus_jaculus/Jaculus_jaculus.JacJac1.0.dna.toplevel.fa prediction_program:genewise
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -7054,7 +7054,7 @@ EMFDRKKKKCVGLERWLSG-----------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelV.SelW.3.selenocysteine.homo_sapiens.Homo_sapiens_GRCh38_dna_toplevel chromosome:19 strand:+ positions:39515213-39516021,39518608-39518632,39518740-39518793,39518903-39518977,39519071-39519145 target:/Lobster/mtico/fasta_gff_genomefiles/homo_sapiens/Homo_sapiens.GRCh38.dna.toplevel.fa prediction_program:genewise
+>SEED.SELENOV.SelW.3.selenocysteine.homo_sapiens.Homo_sapiens_GRCh38_dna_toplevel chromosome:19 strand:+ positions:39515213-39516021,39518608-39518632,39518740-39518793,39518903-39518977,39519071-39519145 target:/Lobster/mtico/fasta_gff_genomefiles/homo_sapiens/Homo_sapiens.GRCh38.dna.toplevel.fa prediction_program:genewise
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -7180,7 +7180,7 @@ ADP----PIPSPV---------P--------------SPI-----------LGTIP--S-
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelW1.SelW.1.selenocysteine.homo_sapiens.Homo_sapiens_GRCh38_dna_toplevel chromosome:1 strand:- positions:31095473-31095561,31094990-31095155 target:/Lobster/mtico/fasta_gff_genomefiles/homo_sapiens/Homo_sapiens.GRCh38.dna.toplevel.fa prediction_program:exonerate
+>SEED.SELENOW1.SelW.1.selenocysteine.homo_sapiens.Homo_sapiens_GRCh38_dna_toplevel chromosome:1 strand:- positions:31095473-31095561,31094990-31095155 target:/Lobster/mtico/fasta_gff_genomefiles/homo_sapiens/Homo_sapiens.GRCh38.dna.toplevel.fa prediction_program:exonerate
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -7306,7 +7306,7 @@ ADP----PIPSPV---------P--------------SPI-----------LGTIP--S-
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------
->SEED.SelW1.SelW.4.selenocysteine.homo_sapiens.Homo_sapiens_GRCh38_dna_toplevel chromosome:19 strand:+ positions:47778768-47778814,47780725-47780749,47780864-47780917,47781108-47781182,47781290-47781367 target:/Lobster/mtico/fasta_gff_genomefiles/homo_sapiens/Homo_sapiens.GRCh38.dna.toplevel.fa prediction_program:exonerate
+>SEED.SELENOW1.SelW.4.selenocysteine.homo_sapiens.Homo_sapiens_GRCh38_dna_toplevel chromosome:19 strand:+ positions:47778768-47778814,47780725-47780749,47780864-47780917,47781108-47781182,47781290-47781367 target:/Lobster/mtico/fasta_gff_genomefiles/homo_sapiens/Homo_sapiens.GRCh38.dna.toplevel.fa prediction_program:exonerate
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
